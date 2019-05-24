@@ -1,35 +1,6 @@
 
 **目录**
 - [序言](#序言)
-- [团贷网的崛起 -- 天价午餐的奖赏
-
-
-## 政府支持促成的一线平台
-
-
-## 暴雷之后
-
-### 案件的走向
-
-### 案件的最终定局 -- 一个既定的预案
-
-### 唐军的最后一张牌
-
-## 舞台幕后
-
-### 爆雷计划筹备超一年
-
-
-### 巨人史玉柱雷中获利
-
-
-### 万和卢氏弟兄在保护伞下的劫后余生
-
-### 来自政府内部的机密报告
-
-### 管中窥豹 -- 大老虎的显现
-
-## 结语
 
 
 
@@ -83,6 +54,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM4ODk5NDAsLTEzMDE2MjA1MzgsMT
-MzMjg0NzM2NSwxNzM2MzIzMDg1LC0yNTQ3OTUwNzVdfQ==
+eyJoaXN0b3J5IjpbMTcyMDAxNDgyMywtMTMwMTYyMDUzOCwxMz
+MyODQ3MzY1LDE3MzYzMjMwODUsLTI1NDc5NTA3NV19
 -->
