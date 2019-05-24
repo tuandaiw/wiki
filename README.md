@@ -32,9 +32,13 @@
 
 ## 舞台幕后
 
-### 爆雷计划
+### 爆雷计划筹备超一年
 
 
+### 巨人史玉柱雷中获利
+
+
+### 万和卢氏弟兄
 
 
 
@@ -45,6 +49,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0OTUyMDYyLDEzMzI4NDczNjUsMTczNj
-MyMzA4NSwtMjU0Nzk1MDc1XX0=
+eyJoaXN0b3J5IjpbLTEzMDE2MjA1MzgsMTMzMjg0NzM2NSwxNz
+M2MzIzMDg1LC0yNTQ3OTUwNzVdfQ==
 -->
