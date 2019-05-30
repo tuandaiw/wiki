@@ -2,7 +2,7 @@
 **目录**
 - [序言](#序言)
 
-
+wer [^bs] 
 
 # 团贷网案件幕后真相
 
@@ -49,14 +49,14 @@
 
 ## 结语
 
-
+[^bs]: werwer
 
 
                                  2019年 于北京中科院
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTg5MzkxMCwxNzIwMDE0ODIzLC0xMz
-AxNjIwNTM4LDEzMzI4NDczNjUsMTczNjMyMzA4NSwtMjU0Nzk1
-MDc1XX0=
+eyJoaXN0b3J5IjpbNjU2MTU0MzQsMTM0MTg5MzkxMCwxNzIwMD
+E0ODIzLC0xMzAxNjIwNTM4LDEzMzI4NDczNjUsMTczNjMyMzA4
+NSwtMjU0Nzk1MDc1XX0=
 -->
