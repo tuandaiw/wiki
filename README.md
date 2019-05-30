@@ -2,7 +2,7 @@
 **目录**
 - [序言](#序言)
 
-wer [证据1]
+wer <sup>[1](#1)</sup>
 
 # 团贷网案件幕后真相
 
@@ -56,7 +56,7 @@ wer [证据1]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1ODE3NDE1LDY1NjE1NDM0LDEzNDE4OT
-M5MTAsMTcyMDAxNDgyMywtMTMwMTYyMDUzOCwxMzMyODQ3MzY1
-LDE3MzYzMjMwODUsLTI1NDc5NTA3NV19
+eyJoaXN0b3J5IjpbMTc4MjQ4MjQwNCwyOTU4MTc0MTUsNjU2MT
+U0MzQsMTM0MTg5MzkxMCwxNzIwMDE0ODIzLC0xMzAxNjIwNTM4
+LDEzMzI4NDczNjUsMTczNjMyMzA4NSwtMjU0Nzk1MDc1XX0=
 -->
